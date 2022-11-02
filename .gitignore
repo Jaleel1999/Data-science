@@ -1,2 +1,8 @@
 Private.txt
 Build
+*.exe
+config.txt
+temp*
+**/configs
+**/configs/local.py
+
